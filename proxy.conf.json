@@ -1,0 +1,6 @@
+{
+  "/": {
+    "target": "http://laravel6.test",
+    "changeOrigin": true
+  }
+}
